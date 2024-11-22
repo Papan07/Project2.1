@@ -8,9 +8,9 @@
 
 <img src="./FullAdder.png"/>
 
-## Add16
+## Add
 
-<img src="./Add16.png"/>
+<img src="./Add.png"/>
 
 ## Inc
 
